@@ -28,7 +28,8 @@
             "group": "Gateway Basics",
             "pages": [
               "basics/gateway-basics",
-              "basics/installing-gateway"
+              "basics/installing-gateway",
+              "basics/starting-gateway"
             ]
           }
         ]
