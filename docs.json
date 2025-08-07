@@ -29,7 +29,8 @@
             "pages": [
               "basics/gateway-basics",
               "basics/installing-gateway",
-              "basics/starting-gateway"
+              "basics/starting-gateway",
+              "basics/gateway-terminology"
             ]
           }
         ]
