@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay Profile="C:\Users\Carolyn\Documents\My Profiles\MyProfile.capro" ProfileHash="990fd2d835014350032e6fab956e9cd154996474" ScreenRectangle="949,283,14,18">
+        <OriginalImage Type="Image" ShapeTimeSpan="10000" ExportFormat="png" Border="none" BorderColor="#808080" BorderWidth="2" AutoAdjust="true" EnableCropRectangle="true" CropRectangle="7,0,7,18" ComputedWidth="7" ComputedHeight="18" EnableGrayScaleFormat="false" DPI="96" medium_print_ExportFormat="png" medium__max_width__767px__ExportFormat="png" medium_mobile_ExportFormat="png">SUkqAMIAAACAP+BP8AQWDQeEQmFQuGQqBwSGxGJROEQ+KReMQ6BxmIrqPABQyGEF+SAAjSeKxuOQwty0AOqYQgLTMAKWbSmBSuWS6YOqZTSbKWcRCdQmPLqQSKDyQvyaUQeLUWpQuo1ODUekqGRyWTkah1aDy0ty+YweZhaazeoSqwACxWSfWagWqDVWwViQ1ql1yn3W2W2p3arXilQamU6vWuc4C3z2f2ig1/GTyywaz2mhYqiXeP3mt02u5LAVOAgQAP4ABAABAAAAAAAAAAABBAABAAAADgAAAAEBBAABAAAAEgAAAAIBAwAEAAAAiAEAAAMBAwABAAAABQAAAAYBAwABAAAAAgAAABEBBAABAAAACAAAABUBAwABAAAABAAAABYBBAABAAAAEgAAABcBBAABAAAAugAAABoBBQABAAAAkAEAABsBBQABAAAAmAEAABwBAwABAAAAAQAAACgBAwABAAAAAgAAAD0BAwABAAAAAgAAAFIBAwABAAAAAgAAAAAAAAAIAAgACAAIAAB3AQDoAwAAAHcBAOgDAAA=</OriginalImage>
+        <Shapes />
+        <Variables />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>
